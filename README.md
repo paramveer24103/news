@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # InfoPulse - Flutter News Aggregator App
 
 A modern, cross-platform mobile news aggregator app built with Flutter that fetches real-time news and current affairs from global news APIs.
@@ -263,3 +264,6 @@ For issues and questions:
 ---
 
 **InfoPulse** - Stay Informed, Stay Ahead 📰
+=======
+# news
+>>>>>>> 470d85fd117ef8dd3409b55a7509ab6143ec9c27
